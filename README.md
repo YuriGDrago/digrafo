@@ -13,7 +13,7 @@ Você pode instalar as bibliotecas NetworkX e NumPy usando o pip:
 ```bash
 pip install networkx numpy
 ```
-##Como Usar
+## Como Usar
 
 Crie um arquivo de texto chamado "grafo.txt" no formato abaixo:
 ```
@@ -29,10 +29,10 @@ A matriz de adjacência resultante será impressa na saída padrão.
 
 Você também pode fazer alterações no grafo criado, como adicionar ou remover arestas, conforme necessário.
 
-##Exemplo de Saída
+## Exemplo de Saída
 A saída do script incluirá a matriz de adjacência gerada a partir do arquivo "grafo.txt" e uma demonstração de como fazer alterações no grafo.
 
-##Exemplo de Arquivo "grafo.txt"
+## Exemplo de Arquivo "grafo.txt"
 Um exemplo de arquivo "grafo.txt" pode ser o seguinte:
 ```
 1 2
@@ -45,5 +45,5 @@ Vértice 1 tem uma aresta direcionada para o Vértice 2.
 Vértice 2 tem uma aresta direcionada para o Vértice 3.
 Vértice 3 tem uma aresta direcionada para o Vértice 1.
 ```
-
+FIM
 
