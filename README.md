@@ -12,8 +12,7 @@ Você pode instalar as bibliotecas NetworkX e NumPy usando o pip:
 
 ```bash
 pip install networkx numpy
-```bash
-````
+```
 ## Como Usar
 
 Crie um arquivo de texto chamado "grafo.txt" no formato abaixo:
