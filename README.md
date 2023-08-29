@@ -40,10 +40,10 @@ Um exemplo de arquivo "grafo.txt" pode ser o seguinte:
 3 1
 ```
 Neste exemplo, o grafo é direcionado da seguinte forma:
-
+```
 Vértice 1 tem uma aresta direcionada para o Vértice 2.
 Vértice 2 tem uma aresta direcionada para o Vértice 3.
 Vértice 3 tem uma aresta direcionada para o Vértice 1.
-
+```
 
 
